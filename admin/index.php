@@ -1,3 +1,7 @@
+<?php
+//incluindo o sisitema de autentificaçao
+include("acesso_com.php");
+?>
 <!DOCTYPE html>
 <html lang="pt.br">
 <head>
